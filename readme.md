@@ -8,6 +8,6 @@ Alap teleport rendszer DM szerverekhez, egyszerűen configolható minden állít
 A Script eladása, és sajátnak hírdeetése TILOS!
 
 Működéshez:
-NH-Context(https://github.com/nighmares/nh-context)
+NH-Context((https://github.com/whooith/nh-context))
 
 es_extended
